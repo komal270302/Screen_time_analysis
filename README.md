@@ -39,6 +39,7 @@ Then run : pip install -r requirements.txt
 # How to Run
 Run the Analysis Script: Run python screen_time_analysis.py. This loads the CSV, computes app frequencies, and generates visualizations.
 - Outputs: Console prints of counts, bar charts for each rank, and a pie chart for total usage.
+
 Notes: The script uses Plotly for interactive plots; view them in a browser or Jupyter. For reproducibility, use the provided sample CSV or replace with your own screen time data.
 
 # Results and Insights
