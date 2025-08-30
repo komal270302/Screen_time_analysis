@@ -25,8 +25,8 @@ The repository contains:
 2. screen_time_analysis.py: Main Python script for data import, processing, counting, and visualization.
 
 # Setup and Installation
-1. Clone the Repository: git clone https://github.com/komal270302/Screen_time_analysis.git
-                         cd Screen_time_analysis
+1. Clone the Repository: - git clone https://github.com/komal270302/Screen_time_analysis.git
+                         - cd Screen_time_analysis
 2. Install Dependencies: Create a requirements.txt file with:
    pandas
    numpy
@@ -38,9 +38,8 @@ Then run : pip install -r requirements.txt
 
 # How to Run
 Run the Analysis Script: Run python screen_time_analysis.py. This loads the CSV, computes app frequencies, and generates visualizations.
-Outputs: Console prints of counts, bar charts for each rank, and a pie chart for total usage.
-
-# Notes: The script uses Plotly for interactive plots; view them in a browser or Jupyter. For reproducibility, use the provided sample CSV or replace with your own screen time data.
+- Outputs: Console prints of counts, bar charts for each rank, and a pie chart for total usage.
+Notes: The script uses Plotly for interactive plots; view them in a browser or Jupyter. For reproducibility, use the provided sample CSV or replace with your own screen time data.
 
 # Results and Insights
 1. App Frequencies: E.g., WhatsApp appears 22 times in Rank 1, Instagram 8 times in Rank 2.
