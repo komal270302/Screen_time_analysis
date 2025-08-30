@@ -26,8 +26,8 @@ The repository contains:
 2. screen_time_analysis.py: Main Python script for data import, processing, counting, and visualization.
 
 ## Setup and Installation
-1. Clone the Repository: - git clone https://github.com/komal270302/Screen_time_analysis.git
-                         - cd Screen_time_analysis
+1. Clone the Repository: - git clone https://github.com/komal270302/Screen_time_analysis.git, 
+                           cd Screen_time_analysis
 2. Install Dependencies: Create a requirements.txt file with:
    pandas
    numpy
